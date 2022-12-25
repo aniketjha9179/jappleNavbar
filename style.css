@@ -144,38 +144,7 @@ body {
     object-position: center;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/* Media quaries for Small(MOBILE) device */
 @media (max-width:500px) and (max-width:200px) {
     #nav {
         padding: 0 5vw;
